@@ -1,0 +1,12 @@
+function abrirLogin() {
+
+    $('#loginModal').modal('toggle')
+
+}
+
+
+function openRegister() {
+
+            $('#loginRegister').modal('toggle')
+
+        }
